@@ -10,7 +10,7 @@
     "minimist": "^1.2.5",
     "node-fetch": "^2.6.0",
     "web3": "^1.2.2",
-    "ws": "^7.2.0"
+    "ws": "^7.4.6"
   },
   "repository": "https://github.com/mykeylab/mykey-tx-tool.git",
   "author": "clar <baobao04@gmail.com>"
